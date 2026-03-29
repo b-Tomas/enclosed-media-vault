@@ -1,6 +1,6 @@
 # 10" 2U Raspberry Pi 5 NAS with 6x 2.5" HDDs
 
-![Assembled NAS in 10" rack](CAD/case/demo/rack.jpg)
+<img src="CAD/case/demo/case-built-front.jpg" alt="Assembled NAS in 10 inch rack" width="400">
 
 A 3D-printed 2U enclosure for a Raspberry Pi 5 NAS running OpenMediaVault, designed to fit a 10" mini rack. Fits up to 6x 2.5" SATA drives connected through a 6-port M.2-to-SATA adapter while booting from an NVMe SSD. Both M.2 devices run on a single PCIe lane via a switch HAT.
 
